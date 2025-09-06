@@ -64,3 +64,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
+## Credits
+- [Equation icon](https://www.flaticon.com/free-icon/equation_18978291) created by [Freepik](https://www.flaticon.com/authors/freepik) - [Flaticon](https://www.flaticon.com/)
+
