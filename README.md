@@ -12,7 +12,8 @@
   <a href="#features">Features</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a>
+  <a href="#usage">Usage</a> •
+    <a href="#credits">Credits</a>
 </p>
 
 <img src="./public/sample.png" alt="JS Calculator App Screenshot" align="center" width="auto" height="auto">
