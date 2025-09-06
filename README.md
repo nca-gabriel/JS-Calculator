@@ -66,6 +66,6 @@ Start the development server:
 npm run dev
 ```
 ## Credits
-[Equation icon](https://www.flaticon.com/free-icon/equation_18978291) created by [Freepik](https://www.flaticon.com/authors/freepik) - [Flaticon](https://www.flaticon.com/)
-[Delete icon](https://www.flaticon.com/free-icon/delete_14414135) created by [Iconjam](https://www.flaticon.com/authors/iconjam) — [Flaticon](https://www.flaticon.com/)
+- [Equation icon](https://www.flaticon.com/free-icon/equation_18978291) created by [Freepik](https://www.flaticon.com/authors/freepik) — [Flaticon](https://www.flaticon.com/)  
+- [Delete icon](https://www.flaticon.com/free-icon/delete_14414135) created by [Iconjam](https://www.flaticon.com/authors/iconjam) — [Flaticon](https://www.flaticon.com/)  
 
