@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://js-calculator-zeta-six.vercel.app/" target="_blank">
+  <a href="https://js-calculator-six-gray.vercel.app/" target="_blank">
     <img src="./public/logo.png" alt="JS Calculator" width="200"/>
   </a>
 </p>
@@ -7,7 +7,7 @@
 <h1 align="center">JS Calculator</h1>
 
 <p align="center">
-  <a href="https://js-calculator-zeta-six.vercel.app" target="_blank">Live Demo</a> •
+  <a href="https://js-calculator-six-gray.vercel.app/" target="_blank">Live Demo</a> •
   <a href="#project-description">Project Description</a> •
   <a href="#features">Features</a> •
   <a href="#tech-stack">Tech Stack</a> •
@@ -24,7 +24,7 @@
 **JS Calculator** is a responsive and interactive web application that allows users to perform basic arithmetic operations.  
 Built with **React**, it demonstrates component-based architecture, state management, and clean UI design.
 
-🔗 [Live Demo](https://js-calculator-zeta-six.vercel.app/)
+🔗 [Live Demo](https://js-calculator-six-gray.vercel.app/)
 
 ---
 
@@ -51,6 +51,7 @@ Built with **React**, it demonstrates component-based architecture, state manage
 git clone https://github.com/nca-gabriel/js-calculator.git
 cd js-calculator
 npm install
+
 
 ```
 
